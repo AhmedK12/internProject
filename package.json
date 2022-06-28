@@ -1,0 +1,19 @@
+{
+  "name": "internproject",
+  "version": "1.0.0",
+  "description": "secondProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedK12/internProject.git"
+  },
+  "author": "kamaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedK12/internProject/issues"
+  },
+  "homepage": "https://github.com/AhmedK12/internProject#readme"
+}
